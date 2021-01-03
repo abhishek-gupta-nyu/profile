@@ -1,18 +1,13 @@
-# Abhishek Gupta's Public Profile
-This is my public profile
-
+<h1 align="center">Abhishek Gupta's Public Profile</h1>
+<a href="https://www.linkedin.com/in/abhishek-gupta-nyu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/linkedin.svg" />
+</a><br/>
 <ul>
   <li><a href="#introduction">Introduction</a></li>  
   <li><a href="#education">Education</a></li>  
   <li><a href="#experience">Experience</a></li>  
   <li><a href="#certifications">Certifications</a></li>
 </ul>
-
-<a href="https://www.linkedin.com/in/abhishek-gupta-nyu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/linkedin.svg" />
-</a>
-
-<br/><br/>
 
 <h2 id="introduction">Introduction</h2>
 
