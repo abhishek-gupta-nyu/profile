@@ -15,13 +15,15 @@ Follow My Blog: https://www.dowithdata.com/
 
 <h2>Education</h2>
 
-<img alt="NYU Logo" width="140px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/nyu-logo.png" />
 <h4>New York University</h4>
+<img alt="NYU Logo" width="140px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/nyu-logo.png" />
+
 Currently pursuing MS in Management of Technology (MOT) from New York University, Tandon School of Engineering, NY. Current GPA - 3.9/4
 
+<h4>PEC University of Technology</h4>
 <img alt="PEC Logo" width="140px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/pec-logo.png" />
 
-<h4>PEC University of Technology</h4>
+
 Previously, I did my Bachelors in Engineering from PEC University of Technology, Chandigarh, India.
 
 <br/>
