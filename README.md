@@ -1,5 +1,12 @@
 <h1 align="center">Abhishek Gupta's Public Profile</h1>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-gupta-nyu/">
+  <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/linkedin.svg" />
+</a>
+
+</div>
+
 <a href="#introduction">Introduction</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#certifications">Certifications</a>
 
 <h2 id="introduction">Introduction</h2>
@@ -7,10 +14,6 @@
 I love to build cool products. I like to chase my dream.
 
 Follow My Blog: https://www.dowithdata.com/
-
-Connect on LinkedIn: <a href="https://www.linkedin.com/in/abhishek-gupta-nyu/">
-  <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/linkedin.svg" />
-</a>
 
 <h2 id="education">Education</h2>
 
