@@ -1,11 +1,6 @@
 <h1 align="center">Abhishek Gupta's Public Profile</h1>
 
-<ul>
-  <li><a href="#introduction">Introduction</a></li>  
-  <li><a href="#education">Education</a></li>  
-  <li><a href="#experience">Experience</a></li>  
-  <li><a href="#certifications">Certifications</a></li>
-</ul>
+<a href="#introduction">Introduction</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="#certifications">Certifications</a>
 
 <h2 id="introduction">Introduction</h2>
 
