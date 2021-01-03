@@ -7,13 +7,25 @@ This is my public profile
 
 <br/><br/>
 
+<h3>Introduction</h3>
+
 I love to build cool products. I like to chase my dream.
 
 Follow My Blog: https://www.dowithdata.com/
 
+<h3>Education</h3>
+
+<img alt="NYU Logo" width="80px" align="left" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/nyu-logo.png" />
+
 Currently pursuing MS in Management of Technology (MOT) from New York University, Tandon School of Engineering, NY. Current GPA - 3.9/4
 
+<img alt="PEC Logo" width="80px" align="left" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/pec-logo.png" />
+
 Previously, I did my Bachelors in Engineering from PEC University of Technology, Chandigarh, India.
+
+<br/>
+
+<h3>Experience</h3>
 
 Working as a Data Analyst GA in the Office of Assessment & Institutional Research at NYU Tandon School of Engineering.
 
@@ -26,5 +38,7 @@ Experienced in API integration and have worked with Google Maps and Locations AP
 Experienced in Data Analytics using R and Python programming languages. I have completed a Data Analytics course from NYU focused on Descriptive, Predictive, and Prescriptive Analytics. The course required the usage of the R programming language. I have completed 2 courses, Introduction to Python and Software development as well as Machine Learning for Business, that required the use of all levels of Python from beginning to advanced level. Used Machine Learning and association concepts to build a recommendation engine to suggest what products are often bought together.
 
 Experienced in Data Visualisation using Tableau, Power BI, and Alteryx.
+
+<h3>Certifications</h3>
 
 Tableau Desktop Specialist: https://www.youracclaim.com/badges/0d68958e-1b77-4fbc-804c-eb91cf6aa324 
