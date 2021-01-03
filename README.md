@@ -7,25 +7,26 @@ This is my public profile
 
 <br/><br/>
 
-<h3>Introduction</h3>
+<h2>Introduction</h2>
 
 I love to build cool products. I like to chase my dream.
 
 Follow My Blog: https://www.dowithdata.com/
 
-<h3>Education</h3>
+<h2>Education</h2>
 
-<img alt="NYU Logo" width="80px" align="left" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/nyu-logo.png" />
-
+<img alt="NYU Logo" width="140px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/nyu-logo.png" />
+<h4>New York University</h4>
 Currently pursuing MS in Management of Technology (MOT) from New York University, Tandon School of Engineering, NY. Current GPA - 3.9/4
 
-<img alt="PEC Logo" width="80px" align="left" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/pec-logo.png" />
+<img alt="PEC Logo" width="140px" src="https://raw.githubusercontent.com/abhishek-gupta-nyu/profile/main/images/pec-logo.png" />
 
+<h4>PEC University of Technology</h4>
 Previously, I did my Bachelors in Engineering from PEC University of Technology, Chandigarh, India.
 
 <br/>
 
-<h3>Experience</h3>
+<h2>Experience</h2>
 
 Working as a Data Analyst GA in the Office of Assessment & Institutional Research at NYU Tandon School of Engineering.
 
@@ -39,6 +40,6 @@ Experienced in Data Analytics using R and Python programming languages. I have c
 
 Experienced in Data Visualisation using Tableau, Power BI, and Alteryx.
 
-<h3>Certifications</h3>
+<h2>Certifications</h2>
 
 Tableau Desktop Specialist: https://www.youracclaim.com/badges/0d68958e-1b77-4fbc-804c-eb91cf6aa324 
